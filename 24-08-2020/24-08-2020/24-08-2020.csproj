@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>_24_08_2020</RootNamespace>
+    <StartupObject>_24_08_2020.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
