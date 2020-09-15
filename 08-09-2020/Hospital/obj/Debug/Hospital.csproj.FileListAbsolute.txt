@@ -1,0 +1,15 @@
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\bin\Debug\Hospital.exe
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.exe
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\bin\Debug\08-09-2020.dll
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\bin\Debug\08-09-2020.pdb
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.FrmABMMedico.resources
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.FrmPpal.resources
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.csproj.CopyComplete
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\Hospital\obj\Debug\Hospital.FrmABMPaciente.resources

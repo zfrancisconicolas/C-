@@ -1,0 +1,10 @@
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\obj\Debug\07-09-2020.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\obj\Debug\07-09-2020.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\bin\Debug\07-09-2020.exe.config
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\bin\Debug\07-09-2020.exe
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\bin\Debug\07-09-2020.pdb
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\bin\Debug\Entidades.dll
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\bin\Debug\Entidades.pdb
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\obj\Debug\07-09-2020.csproj.CopyComplete
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\obj\Debug\07-09-2020.exe
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\07-09-2020\obj\Debug\07-09-2020.pdb

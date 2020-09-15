@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qBzHTjC+ydStC8h1sh/d2IHxNH5Bufd2y6MwOpXIwncj65kzpNVOcU+DNn98B78CMw2g87X6XsdAn5Z//lVxzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Francisco\\source\\repos\\C-Sharp\\08-09-2020\\08-09-2020\\08-09-2020.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francisco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Francisco\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

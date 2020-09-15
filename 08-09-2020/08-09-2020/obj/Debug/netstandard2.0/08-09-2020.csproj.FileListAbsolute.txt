@@ -1,0 +1,9 @@
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\08-09-2020\bin\Debug\netstandard2.0\08-09-2020.deps.json
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\08-09-2020\bin\Debug\netstandard2.0\08-09-2020.dll
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\08-09-2020\bin\Debug\netstandard2.0\08-09-2020.pdb
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\08-09-2020\obj\Debug\netstandard2.0\08-09-2020.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\08-09-2020\obj\Debug\netstandard2.0\08-09-2020.AssemblyInfoInputs.cache
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\08-09-2020\obj\Debug\netstandard2.0\08-09-2020.AssemblyInfo.cs
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\08-09-2020\obj\Debug\netstandard2.0\08-09-2020.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\08-09-2020\obj\Debug\netstandard2.0\08-09-2020.dll
+C:\Users\Francisco\source\repos\C-Sharp\08-09-2020\08-09-2020\obj\Debug\netstandard2.0\08-09-2020.pdb

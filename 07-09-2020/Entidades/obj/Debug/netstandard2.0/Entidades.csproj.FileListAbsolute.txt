@@ -1,0 +1,9 @@
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\Francisco\source\repos\C-Sharp\07-09-2020\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
